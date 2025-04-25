@@ -125,11 +125,12 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        "service_v0fcx0p",
-        "template_aasxb4c",
+        // Create your own id from Email JS Website ( https://www.emailjs.com/ ) and obtain these three keys.
+        "your-service-id",// Your Service ID,
+        "your tempelate id", // Your Template ID,
         form.current,
-        "ktyE-HnN0ZCV6ClFW"
-      )
+        "your public key" // Your Public Key
+    )
       .then(
         () => {
           alert("Message Sent ✅");

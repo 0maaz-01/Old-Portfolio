@@ -1,4 +1,4 @@
-# Live Link - [Previous Portfolio WeBSITE](https://portfolio-omega-two-95.vercel.app/)
+# Live Link - [Previous Portfolio Website](https://portfolio-omega-two-95.vercel.app/)
 
 ---
 

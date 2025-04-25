@@ -66,32 +66,145 @@ Simple footer with name, copyright, and quick links.
 ## Installation 🛠️ :
 You need to install some dependencies using the command terminal so that the code runs smoothly on your device.
 
-1) React :
-`npm install `
+Absolutely! Here's the list with the **module name labeled above each installation command** — nice and clean:
 
-2) Tailwind CSS :
-   `npm install -D tailwindcss@3 postcss autoprefixer`
-     
-    `npx tailwindcss init  -p`
+---
 
-3) Mongoose : For operating mongo db
-   `npm install mongoose`
+### 📦 Core Dependencies
 
-4) Express :
-   `npm install express`
+#### 1)  `@emailjs/browser`
+```bash
+npm install @emailjs/browser@^4.1.0
+```
 
-5) JWT :
-   `npm install jsonwebtoken`
-6) Axios :
-   `npm install jsonwebtoken`
-7) React Router :
-`npm install react-router-dom`
-8) Lucide React
- `npm install lucide-react`
-9) React Hot Toast :
-`npm install react-hot-toast`
-10) Bcrypt JS : 
-`npm install bcryptjs`
+#### 2) `emailjs`
+```bash
+npm install emailjs@^4.0.3
+```
+
+#### 3) `framer-motion`
+```bash
+npm install framer-motion@^11.0.5
+```
+
+#### 4) `maath`
+```bash
+npm install maath@^0.10.7
+```
+
+#### 5) `react`
+```bash
+npm install react@^18.2.0
+```
+
+#### 5) `react-dom`
+```bash
+npm install react-dom@^18.2.0
+```
+
+#### 6) `react-icons`
+```bash
+npm install react-icons@^5.0.1
+```
+
+#### 7) `react-router-dom`
+```bash
+npm install react-router-dom@^6.22.1
+```
+
+#### 8) `react-scripts`
+```bash
+npm install react-scripts@5.0.1
+```
+
+#### 9) `react-scroll`
+```bash
+npm install react-scroll@^1.9.0
+```
+
+#### 10) `react-tilt`
+```bash
+npm install react-tilt@^1.0.2
+```
+
+#### 11) `react-vertical-timeline-component`
+```bash
+npm install react-vertical-timeline-component@^3.6.0
+```
+
+#### 12) `styled-components`
+```bash
+npm install styled-components@^6.1.8
+```
+
+#### 13) `three`
+```bash
+npm install three@^0.161.0
+```
+
+#### 14) `typewriter-effect`
+```bash
+npm install typewriter-effect@^2.21.0
+```
+
+#### 15) `web-vitals`
+```bash
+npm install web-vitals@^2.1.4
+```
+
+---
+
+### 🎨 UI Libraries & Styling
+
+#### 1) `@emotion/react`
+```bash
+npm install @emotion/react@^11.11.3
+```
+
+#### 2) `@emotion/styled`
+```bash
+npm install @emotion/styled@^11.11.0
+```
+
+#### 3)  `@mui/icons-material`
+```bash
+npm install @mui/icons-material@^5.15.10
+```
+
+#### 4) `@mui/lab`
+```bash
+npm install @mui/lab@^5.0.0-alpha.165
+```
+
+#### 5) `@mui/material`
+```bash
+npm install @mui/material@^5.15.10
+```
+
+---
+
+### 🧪 Testing Libraries *(Optional: add `--save-dev` if installing as dev dependencies)*
+
+#### 1) `@testing-library/jest-dom`
+```bash
+npm install @testing-library/jest-dom@^5.17.0
+```
+
+#### 2) `@testing-library/react`
+```bash
+npm install @testing-library/react@^13.4.0
+```
+
+#### 3) `@testing-library/user-event`
+```bash
+npm install @testing-library/user-event@^13.5.0
+```
+
+### Or Run This Command :
+```bash
+npm install @emailjs/browser@^4.1.0 @emotion/react@^11.11.3 @emotion/styled@^11.11.0 @mui/icons-material@^5.15.10 @mui/lab@^5.0.0-alpha.165 @mui/material@^5.15.10 @testing-library/jest-dom@^5.17.0 @testing-library/react@^13.4.0 @testing-library/user-event@^13.5.0 emailjs@^4.0.3 framer-motion@^11.0.5 maath@^0.10.7 react@^18.2.0 react-dom@^18.2.0 react-icons@^5.0.1 react-router-dom@^6.22.1 react-scripts@5.0.1 react-scroll@^1.9.0 react-tilt@^1.0.2 react-vertical-timeline-component@^3.6.0 styled-components@^6.1.8 three@^0.161.0 typewriter-effect@^2.21.0 web-vitals@^2.1.4
+```
+
 ---
 
 ## Contributing 🤝

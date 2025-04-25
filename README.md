@@ -67,11 +67,17 @@ Simple footer with name, copyright, and quick links.
 ---
 
 ## Installation 🛠️ :
-You need to install some dependencies using the command terminal so that the code runs smoothly on your device.
 
-Absolutely! Here's the list with the **module name labeled above each installation command** — nice and clean:
+### Make these changes inside Old-Portfolio/src/components/sections/Contact.jsx file 
+      .sendForm(
+        // Create your own id from Email JS Website ( https://www.emailjs.com/ ) and obtain these three keys.
+        "your-service-id",// Your Service ID,
+        "your tempelate id", // Your Template ID,
+        form.current,
+        "your public key" // Your Public Key
+    )
 
----
+### You need to install some dependencies using the command terminal so that the code runs smoothly on your device.
 
 ### 📦 Core Dependencies
 

@@ -23,49 +23,28 @@ Displays the tech stack I work with using icons and visuals, including:
 ### 4) Projects Section 💻: 
 Displays the projects along with brief information about each, including links to the live projects and their source code.
 
-### 5) **Education Section 🎓:** My academic journey, showcasing what I have studied so far.
+### 5) Education Section 🎓: 
+My academic journey, showcasing what I have studied so far.
 
-6) **Contact Section 📬:** Includes a contact form throught which the user can contact me.
+### 6) Contact Section 📬:
+Includes a contact form throught which the user can contact me.
 
-7) **Footer Section 📎:** Simple footer with name, copyright, and quick links.
-
----
-
-## Pages 📄
-
-### 1. **Home / Landing Page** 🏠  
-   - Engaging headline, brief intro, and CTA to scroll further or view resume.
-
-### 2. **About Page** 👨‍💻  
-   - Who I am, what I love doing, and how I started.
-
-### 3. **Skills Section** ⚙️  
-   - Icons and tooltips showing my current tech stack.
-
-### 4. **Projects Page** 📁  
-   - Card-based UI to display portfolio pieces.
-   - GitHub and live links for each project.
-
-### 5. **Education Section** 📘  
-   - Academic achievements and background info.
-
-### 6. **Contact Page** 💌  
-   - A form built with validation + clickable social links.
+### 7) Footer Section 📎:
+Simple footer with name, copyright, and quick links.
 
 ---
 
 ## Technologies Used 🧰
 
-![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,git,github)
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,git,github)
 
 - **React.js** – For creating dynamic and component-based UIs
-- **TailwindCSS** – For sleek, responsive design
-- **React Router DOM** – For smooth navigation between pages
-- **EmailJS / Formspree** – (Optional) For email handling from contact forms
-- **Framer Motion / AOS** – For smooth animations
-- **React Icons / Lucide** – For iconography
-- **VS Code** – Code editor of choice
-
+- **CSS** – For sleek, responsive design
+- **Javascript** – For writing the functionalities.
+- **EmailJS / Formspree** – For email handling from contact forms
+- **Tilt and Framer Motion** – For smooth animations.
+- **React Icons / Lucide** – For icons.
+- **HTML** - For tags.
 ---
 
 ## Screenshots & Demo 📸
@@ -84,9 +63,72 @@ Displays the projects along with brief information about each, including links t
 
 ---
 
-## Installation & Setup Guide 🛠️
+## Installation 🛠️ :
+You need to install some dependencies using the command terminal so that the code runs smoothly on your device.
 
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/portfolio.git
-cd portfolio
+1) React :
+`npm install `
+
+2) Tailwind CSS :
+   `npm install -D tailwindcss@3 postcss autoprefixer`
+     
+    `npx tailwindcss init  -p`
+
+3) Mongoose : For operating mongo db
+   `npm install mongoose`
+
+4) Express :
+   `npm install express`
+
+5) JWT :
+   `npm install jsonwebtoken`
+6) Axios :
+   `npm install jsonwebtoken`
+7) React Router :
+`npm install react-router-dom`
+8) Lucide React
+ `npm install lucide-react`
+9) React Hot Toast :
+`npm install react-hot-toast`
+10) Bcrypt JS : 
+`npm install bcryptjs`
+---
+
+## Contributing 🤝
+
+All contributions are welcome! If you'd like to add features or fix bugs:
+
+1. Fork the repo
+2. Create a new branch 
+3. Make your changes
+4. Commit your changes
+5. Push to your fork 
+6. Submit a pull request
+
+---
+
+## License 📄
+
+
+MIT License
+
+Copyright (c) 2025 Mohammed Maaz Rayeen
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+

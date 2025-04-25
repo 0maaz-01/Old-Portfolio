@@ -51,18 +51,18 @@ Simple footer with name, copyright, and quick links.
 
 ### 💻 Desktop View
 
-<img src="https://github.com/0maaz-01/Old-Portfolio/blob/main/Images/Hero.png" alt="Thumbnail" width="320" height="180"><img src="https://github.com/0maaz-01/Old-Portfolio/blob/main/Images/Skill.png" alt="Thumbnail" width="320" height="180"><img src="https://github.com/0maaz-01/Old-Portfolio/blob/main/Images/Project.png" alt="Thumbnail" width="320" height="180">
-
- <br></br>
-
-<img src="https://github.com/0maaz-01/Old-Portfolio/blob/main/Images/Education.png" alt="Thumbnail" width="320" height="180"><img src="https://github.com/0maaz-01/Old-Portfolio/blob/main/Images/Contact.png" alt="Thumbnail" width="320" height="180"><img src="https://github.com/0maaz-01/Old-Portfolio/blob/main/Images/Footer.png" alt="Thumbnail" width="320" height="180">
+<img src="https://github.com/0maaz-01/Old-Portfolio/blob/main/Images/Hero.png" alt="Thumbnail" width="320" height="180"><img src="https://github.com/0maaz-01/Old-Portfolio/blob/main/Images/Skill.png" alt="Thumbnail" width="320" height="180"><img src="https://github.com/0maaz-01/Old-Portfolio/blob/main/Images/Project.png" alt="Thumbnail" width="320" height="180"><img src="https://github.com/0maaz-01/Old-Portfolio/blob/main/Images/Education.png" alt="Thumbnail" width="320" height="180"><img src="https://github.com/0maaz-01/Old-Portfolio/blob/main/Images/Contact.png" alt="Thumbnail" width="320" height="180"><img src="https://github.com/0maaz-01/Old-Portfolio/blob/main/Images/Footer.png" alt="Thumbnail" width="320" height="180">
 
 
 ### 📱 Mobile View
 
-<img src="https://your-image-link.com/mobile1.png" width="220">
-<img src="https://your-image-link.com/mobile2.png" width="220">
-<img src="https://your-image-link.com/mobile3.png" width="220">
+[<img src="https://github.com/0maaz-01/Old-Portfolio/blob/main/Images/Header%20Mob.jpg" alt="Thumbnail" width="220" height="500">
+<img src="https://github.com/0maaz-01/Old-Portfolio/blob/main/Images/About%20Mob.jpg" alt="Thumbnail" width="220" height="500">
+<img src="https://github.com/0maaz-01/Old-Portfolio/blob/main/Images/About2%20Mob.jpg" alt="Thumbnail" width="220" height="500">
+<img src="https://github.com/0maaz-01/Old-Portfolio/blob/main/Images/Skill%20Mob.jpg" alt="Thumbnail" width="220" height="500">]
+<img src="https://github.com/0maaz-01/Old-Portfolio/blob/main/Images/Project%20Mob.jpg" alt="Thumbnail" width="220" height="500">]
+<img src="https://github.com/0maaz-01/Old-Portfolio/blob/main/Images/Education%20Mob.jpg" alt="Thumbnail" width="220" height="500">]
+<img src="https://github.com/0maaz-01/Old-Portfolio/blob/main/Images/Footer%20Mob.jpg" alt="Thumbnail" width="220" height="500">]
 
 ---
 

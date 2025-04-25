@@ -51,9 +51,12 @@ Simple footer with name, copyright, and quick links.
 
 ### 💻 Desktop View
 
-<img src="https://your-image-link.com/desktop1.png" width="320">
-<img src="https://your-image-link.com/desktop2.png" width="320">
-<img src="https://your-image-link.com/desktop3.png" width="320">
+<img src="https://github.com/0maaz-01/Old-Portfolio/blob/main/Images/Hero.png" alt="Thumbnail" width="320" height="180"><img src="https://github.com/0maaz-01/Old-Portfolio/blob/main/Images/Skill.png" alt="Thumbnail" width="320" height="180"><img src="https://github.com/0maaz-01/Old-Portfolio/blob/main/Images/Project.png" alt="Thumbnail" width="320" height="180">
+
+ <br></br>
+
+<img src="https://github.com/0maaz-01/Old-Portfolio/blob/main/Images/Education.png" alt="Thumbnail" width="320" height="180"><img src="https://github.com/0maaz-01/Old-Portfolio/blob/main/Images/Contact.png" alt="Thumbnail" width="320" height="180"><img src="https://github.com/0maaz-01/Old-Portfolio/blob/main/Images/Footer.png" alt="Thumbnail" width="320" height="180">
+
 
 ### 📱 Mobile View
 

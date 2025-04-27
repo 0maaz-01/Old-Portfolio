@@ -4,7 +4,7 @@
 
 # Portfolio Website 💼💻
 
-I built a fully responsive **developer portfolio website** in the initial days of my web development to showcase my personal and professional background, including **skills, projects, education, and contact information**. The goal of this portfolio is to provide a central hub where visitors can learn more about me, explore my work, and easily get in touch.
+I built a fully responsive **developer portfolio website** in the initial days of my web development to showcase my personal and educational background, including **skills, projects, education, and contact information**. The goal of this portfolio is to provide a central hub where visitors can learn more about me, explore my work, and easily get in touch.
 
 ---
 

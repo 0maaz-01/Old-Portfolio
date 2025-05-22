@@ -10,7 +10,7 @@ import {
 const FooterContainer = styled.div`
   width: 100%;
   padding: 2rem 0;
-  display: flex;
+  display: flex; 
   justify-content: center;
   z-index: 10;
   position: relative;

@@ -33,20 +33,6 @@ Includes a contact form throught which the user can contact me.
 Simple footer with name, copyright, and quick links.
 
 ---
-
-## Technologies Used 🧰
-
-![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,git,github)
-
-- **React.js** – For creating dynamic and component-based UIs
-- **CSS** – For sleek, responsive design
-- **Javascript** – For writing the functionalities.
-- **EmailJS / Formspree** – For email handling from contact forms
-- **Tilt and Framer Motion** – For smooth animations.
-- **React Icons / Lucide** – For icons.
-- **HTML** - For tags.
----
-
 ## Screenshots & Demo 📸
 
 ### 💻 Desktop View
@@ -64,6 +50,18 @@ Simple footer with name, copyright, and quick links.
 <img src="https://github.com/0maaz-01/Old-Portfolio/blob/main/Images/Education%20Mob.jpg" alt="Thumbnail" width="220" height="500">]
 <img src="https://github.com/0maaz-01/Old-Portfolio/blob/main/Images/Footer%20Mob.jpg" alt="Thumbnail" width="220" height="500">]
 
+---
+## Technologies Used 🧰
+
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,git,github)
+
+- **React.js** – For creating dynamic and component-based UIs
+- **CSS** – For sleek, responsive design
+- **Javascript** – For writing the functionalities.
+- **EmailJS / Formspree** – For email handling from contact forms
+- **Tilt and Framer Motion** – For smooth animations.
+- **React Icons / Lucide** – For icons.
+- **HTML** - For tags.
 ---
 
 ## Installation 🛠️ :
